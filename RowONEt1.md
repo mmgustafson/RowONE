@@ -1,4 +1,5 @@
 **customer segments: an organization serves one or several customer segments.**
+
 •For whom are we creating value?
 
   -We are creating value for people who want to paddleboard, canoe, kayak, etc. and may not be able to do so. We provide a convenient and cost-effective alternative rather than the consumer having to buy, house, and transport it themselves.
