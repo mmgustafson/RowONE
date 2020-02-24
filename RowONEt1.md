@@ -1,4 +1,4 @@
-![](img_7824.jpg)
+![](https://mail.google.com/mail/u/0?ui=2&ik=9945adb05b&attid=0.1&permmsgid=msg-f:1659456719407462679&th=17079318186ab917&view=att&disp=safe)
 
 
 
