@@ -1,7 +1,7 @@
 # RowONE
 
 
-![](IMG_7824.jpg|100x100)
+![](IMG_78243.jpg)
 
 **customer segments: an organization serves one or several customer segments.**
 
