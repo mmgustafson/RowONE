@@ -3,7 +3,7 @@
 •For whom are we creating value?
 
   -We are creating value for people who want to paddleboard, canoe, kayak, etc. and may not be able to do so. We provide a convenient and cost-effective alternative rather than the consumer having to buy, house, and transport it themselves.
-  - In particular, we target the people in the east and west coast and near lake which are the ideal place for surfing.
+  - In particular, we target the people in the east/west coast, and near lakes, which are the ideal place for surfing.
   
 **•Who are our most important customers?**
 
@@ -11,8 +11,7 @@
   
 **•Which market segment(s) can make our organization successful?**
 
-  -Outdoor Fitness and Aquatic sections. There are many active people who exercise or people who just want to take something out on the water.
-  -Surfing business will grow within a few year because surfing become an Oylmpic sport from Tokyo2020. It expects more people visit the US to go surfing, and our project will a great business opportunity.
+  -Outdoor Fitness and Aquatic sections. There are many active people who exercise or people who just want to take something out on the water. The surfing business will grow within a few years because surfing has become an Oylmpic sport for Tokyo 2020. Expectations are that more people visit the US to go surfing, and our project will be a great business opportunity.
 
 **•Do we target a mass market or a more specialized market niche?**
 
