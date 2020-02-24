@@ -1,5 +1,5 @@
-                                        RowONE
-                                        ![](image1.jpeg)
+# RowONE
+![](image1.jpeg)
 
 **customer segments: an organization serves one or several customer segments.**
 
