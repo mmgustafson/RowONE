@@ -36,14 +36,14 @@ Team Leader - Chase Pederson
 
 ### Marketing 
 
-Raise awareness through ads, online and on lakes.
+Raise awareness through ads, online, and on lakes.
 Less focus on television ads as our consumers likely don’t watch a lot of TV.
-Using Social Networking Services (SNS), i.e. facebook, twitter, instagram, to advertise our business because we target young customers, and SNS is free.
-Build relationships with local sporting goods businesses, so they can also recommend, or let their customers know about our services.
+Using Social Networking Services (SNS)(i.e. facebook, twitter, instagram) to advertise our business because we target young customers, and SNS is free.
+Build relationships with local sporting goods businesses, so they can also recommend or let their customers know about our services.
 
 ### Rating System
 
-In app/on website ability to rate products to show quality
+In app/on website ability to rate products to show quality.
 Its rating is made public so that customers can see rates and comments (like the situation we buy product online in Amazon) 
 Point of Purchase
 In app, on website to provide easily accessible, and in person at rental machines.
