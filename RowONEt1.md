@@ -51,7 +51,7 @@ Handle with many languages (spanish, chinese, franch, etc.) because we target pe
  
 ### Deliver value
 
-- “Value delivery involves everything necessary to ensure every paying customer is a happy customer: order processing, inventor management, delivery fulfillment, troubleshooting, customer support, etc.” 
+“Value delivery involves everything necessary to ensure every paying customer is a happy customer: order processing, inventor management, delivery fulfillment, troubleshooting, customer support, etc.” 
 Customers can see the stock of paddleboards, kayaks and canoes in app/on website
 Refer-a-friend program: Tell a friend about our business (recommend to try) and the person who introduces to the friend can get coupon or something
 
