@@ -75,3 +75,19 @@ Long-term: This is for our customers who do not want to and/or cannot afford, ho
 
 There will be online customer support for anyone who is having troubles, but there will also be buildings in select areas that will be able to assist on-site. If there is not a building in that area and the issue cannot be resolved through customer support (or the patron wants to speak in person), then we will send a technician in the local area to assist.
 
+## Assingment 3
+
+Team Leader - Erina Funatsu
+
+### Key Activities & Key Resources
+
+#### Platform for customers to use (App and website)
+
+Our business will develop applications for smartphone users and establish an Internet website so that customers can borrow equipments for water sport activities - surfboards, wakeboards, paddle boards, canoes, or kayaks. In both app and website, customers can search what they want to rent by putting a few words in the search box. Or they are also able to quickly pick up equipments from the categories (i.e. surfboards, wakeboards, paddle boards, canoes, or kayaks). Besides, they can check rates and comments before deciding to borrow products. In the smartphone app, there is notification function telling customers valuable information such as discount, sale, invents, etc. Our business creates a value by providing much cheaper water sports equipments for users who are not afford to buy those products. Therefore, these services contribute to solving customer problems because customers can compare the cost, condition, experience with the seller of equipment in the app or web, which means they can choose the products that meet their need. All the customers need to enroll their email before using services, so it helps us to maintaining customer relationship too.
+
+#### Business partners
+
+Our business includes from providing products to users, to delivering them to users, and carrying out maintenance of products. We do not either produce water sport equipments or delivering or maintaining them; instead, we manage these series of business procedures. We cooperate with companies for manufacturing, delivering, and maintaining. If users try to go through these processes by themselves, it is very difficult and expensive for them. Our business act as a mediator between the each sector - producing, delivering, and maintaining. We contact out bridging a bridge between producing to delivering, and between delivering to maintaining. If we act as a go-between each section, we can hold the leasing prices for customers. This business model not only helps users to get equipments as cheaper as possible, but also have benefits for our business partners. Since we are developing and maintaining app and website that collect customers’ comments or rates towards a product, we share those valuable information with business partners. As a result, business partners can also make a profit by providing products or services that are specifically tailored to the user’s needs. We are in a win-win situation. 
+
+#### Technology
+
