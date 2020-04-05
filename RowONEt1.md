@@ -1,11 +1,12 @@
 # RowONE
 
+---
 
 ![](IMG_78243.jpg)
 
 ## Assignment 1
 
-Team Leader:  Joe Gomez
+Team Leader - Joe Gomez
 
 ### Customer Segment
 
@@ -27,6 +28,8 @@ We are the first, and only, water sport recreational equipment rental business. 
 
 Our initial line of products and service include surfboards, wakeboards, paddleboards, kayaks, and canoes. These are readily available and accessible from the waterfront, which are in electronic kiosks/racks/lockers. They will be able to select the piece of equipment they want to rent from their phones, or the screens on the kiosks, and purchase the rental. It will then be dispensed. A customer will be charged by the half hour.  We will have employees that provide the upkeep and maintenance of an item.
 Within the next 5 years, our business is expected to grow in terms of the amount of kiosks/racks/lockers around the nation, and how much equipment they hold.
+
+---
 
 ## Assignment 2
 
@@ -74,6 +77,8 @@ Long-term: This is for our customers who do not want to and/or cannot afford, ho
 #### Direct Personal assistance
 
 There will be online customer support for anyone who is having troubles, but there will also be buildings in select areas that will be able to assist on-site. If there is not a building in that area and the issue cannot be resolved through customer support (or the patron wants to speak in person), then we will send a technician in the local area to assist.
+
+---
 
 ## Assingment 3
 
