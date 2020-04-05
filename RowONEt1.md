@@ -37,10 +37,10 @@ Team Leader - Chase Pederson
 
 #### *Marketing* 
 
-Raise awareness through ads, online, and on lakes.
+Raise awareness through advertisements, online, and on lakes.
 Less focus on television ads as our consumers likely don’t watch a lot of TV.
 Using Social Networking Services (SNS)(i.e. facebook, twitter, instagram) to advertise our business because we target young customers, and SNS is free.
-Build relationships with local sporting goods businesses, so they can also recommend or let their customers know about our services.
+Build relationships with local sporting goods businesses, so they can also recommend or let their customers know about our services. Using sponsorships with high profile celebrities and role models will also help us expand on spreading information, especially with athletes well known in the water sports industry.
 
 #### *Rating System*
 
@@ -52,9 +52,9 @@ Handle with many languages (spanish, chinese, franch, etc.) because we target pe
  
 #### *Deliver value*
 
-“Value delivery involves everything necessary to ensure every paying customer is a happy customer: order processing, inventor management, delivery fulfillment, troubleshooting, customer support, etc.” 
 Customers can see the stock of paddleboards, kayaks and canoes in app/on website
-Refer-a-friend program: Tell a friend about our business (recommend to try) and the person who introduces to the friend can get coupon or something
+Refer-a-friend program: Tell a friend about our business (recommend to try) and the person who introduces to the friend can get coupon, or special bundle rentals, for example rent up to four kayaks at full price and get an extra rental for free for duration of original rental. Rewards program, for loyal customers who rent from us more frequently than others, allows people to earn rewards such as souvenirs (ie stickers, koozies, t-shirts etc), or discounts on future rentals.
+
 
 #### *Customer Support*
 
@@ -85,7 +85,10 @@ Team Leader - Erina Funatsu
 
 #### *Platform for customers to use (App and website)*
 
-Our business will develop applications for smartphone users and establish an Internet website so that customers can borrow equipment for water sport activities - surfboards, wakeboards, paddle boards, canoes, or kayaks. In both the app and website, customers can search what they want to rent by putting a few words in the search box, and they are able to quickly pick up equipment from the categories (i.e. surfboards, wakeboards, paddle boards, canoes, or kayaks). They can also check rates and comments before deciding to borrow products. In the smartphone app, there is a notification function telling customers valuable information such as discount, sale, invents, etc. Our business creates value by providing much cheaper water sports equipment for users who are not able to afford other products. These services contribute to solving customer problems because customers can compare the cost, condition, experience with the seller of equipment in the app or web. This means they can choose the products that meet their needs. All customers need to enroll their email before using services as it helps us maintain customer relationships too.
+Our business will develop applications for smartphone users and establish an Internet website so that customers can borrow equipment for water sport activities - surfboards, wakeboards, paddle boards, canoes, or kayaks. In both the app and website, customers can search what they want to rent by putting a few words in the search box, and they are able to quickly pick up equipment from the categories (i.e. surfboards, wakeboards, paddle boards, canoes, or kayaks). They can also check rates and comments before deciding to borrow products. We also have a wide variety of different brands per sporting equipment, so preference is definitely encouraged for our more selective customers. We value their opinion and want to provide them with the best of the best. 
+
+In the smartphone app, there is a notification function telling customers valuable information such as discount, sale, invents, etc. Our business creates value by providing much cheaper water sports equipment for users who are not able to afford other products. These services contribute to solving customer problems because customers can compare the cost, condition, experience with the seller of equipment in the app or web. This means they can choose the products that meet their needs. All customers need to enroll their email before using services as it helps us maintain customer relationships too. Creating an account in our online website will further help us assist our customers because our online website saves past rentals and recommend other equipment for faster rentals. For people who are new to the water sports industry, we also provide online information and physical pamphlets that give a brief breakdown of how to use and take proper care of our equipment so it can be used to the max potential and returned in the condition it was rented.
+
 
 ### **Key Resources**
 
@@ -96,7 +99,7 @@ Our business will develop applications for smartphone users and establish an Int
 
 #### *Business partners*
 
-Our business includes providing products to users, delivering them to users, and carrying out maintenance of products. We do not either produce the water sport equipment , deliver them, or maintain them; instead, we manage these as a series of business procedures. We cooperate with companies for manufacturing, delivering, and maintaining these products. If users try to go through these processes by themselves, it is very difficult and expensive for them. Our business acts as a mediator between each sector. Our connections build a bridge between producing the product, delivering it, and keeping up that maintenance of said product. We act as a middleman for each section, and this ensures that we can handle the leasing prices for customers. This business model not only helps users to get equipment as cheap as possible, but also have benefits for our business partners. Since we are developing and maintaining the app and website that collect customers’ comments or rates towards a product, we share those valuable information with business partners. As a result, business partners can also make a profit by providing products or services that are specifically tailored to the user’s needs. We are in a win-win situation.
+Our business includes providing products to users, delivering them to users, and carrying out maintenance of products. We do not either produce the water sport equipment , deliver them, or maintain them; instead, we manage these as a series of business procedures. We cooperate with companies for manufacturing, delivering, and maintaining these products. If users try to go through these processes by themselves, it is very difficult and expensive for them. Our business acts as a mediator between each sector. Our connections build a bridge between producing the product, delivering it, and keeping up that maintenance of said product. We act as a middleman for each section, and this ensures that we can handle the leasing prices for customers. This business model not only helps users to get equipment as cheap as possible, but also have benefits for our business partners. We are not only giving customers a brief sample of our business partners’ products, we are also advertising to increase their sales as well, so it is beneficial for both sides in the event our consumers wish to purchase their own equipment. Since we are developing and maintaining the app and website that collect customers’ comments or rates towards a product, we share those valuable information with business partners. As a result, business partners can also make a profit by providing products or services that are specifically tailored to the user’s needs. We are in a win-win situation.
 
 #### *Assets*
 
