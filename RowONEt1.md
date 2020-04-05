@@ -79,7 +79,7 @@ There will be online customer support for anyone who is having troubles, but the
 
 Team Leader - Erina Funatsu
 
-### Key Activities & Key Resources
+### Key Activities
 
 #### Platform for customers to use (App and website)
 
@@ -88,6 +88,8 @@ Our business will develop applications for smartphone users and establish an Int
 #### Business partners
 
 Our business includes providing products to users, delivering them to users, and carrying out maintenance of products. We do not either produce the water sport equipment , deliver them, or maintain them; instead, we manage these as a series of business procedures. We cooperate with companies for manufacturing, delivering, and maintaining these products. If users try to go through these processes by themselves, it is very difficult and expensive for them. Our business acts as a mediator between each sector. Our connections build a bridge between producing the product, delivering it, and keeping up that maintenance of said product. We act as a middleman for each section, and this ensures that we can handle the leasing prices for customers. This business model not only helps users to get equipment as cheap as possible, but also have benefits for our business partners. Since we are developing and maintaining the app and website that collect customers’ comments or rates towards a product, we share those valuable information with business partners. As a result, business partners can also make a profit by providing products or services that are specifically tailored to the user’s needs. We are in a win-win situation.
+
+### Key Resources
 
 #### Assets
 
