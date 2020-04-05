@@ -37,7 +37,7 @@ Team Leader - Chase Pederson
 
 #### *Marketing* 
 
-Raise awareness through advertisements, online, and on lakes.
+Raise awareness through advertisements, online, and on waterfront.
 Less focus on television ads as our consumers likely don’t watch a lot of TV.
 Using Social Networking Services (SNS)(i.e. facebook, twitter, instagram) to advertise our business because we target young customers, and SNS is free.
 Build relationships with local sporting goods businesses, so they can also recommend or let their customers know about our services. Using sponsorships with high profile celebrities and role models will also help us expand on spreading information, especially with athletes well known in the water sports industry.
