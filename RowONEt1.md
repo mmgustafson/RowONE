@@ -2,8 +2,6 @@
 
 ![](IMG_78243.jpg)
 
----
-
 ## Assignment 1
 
 Team Leader - Joe Gomez
@@ -29,36 +27,34 @@ We are the first, and only, water sport recreational equipment rental business. 
 Our initial line of products and service include surfboards, wakeboards, paddleboards, kayaks, and canoes. These are readily available and accessible from the waterfront, which are in electronic kiosks/racks/lockers. They will be able to select the piece of equipment they want to rent from their phones, or the screens on the kiosks, and purchase the rental. It will then be dispensed. A customer will be charged by the half hour.  We will have employees that provide the upkeep and maintenance of an item.
 Within the next 5 years, our business is expected to grow in terms of the amount of kiosks/racks/lockers around the nation, and how much equipment they hold.
 
----
-
 ## Assignment 2
 
 Team Leader - Chase Pederson
- 
-### Connecting Customer Segments
 
-### Marketing 
+### Channels - Connecting Customer Segments
+
+#### Marketing 
 
 Raise awareness through ads, online, and on lakes.
 Less focus on television ads as our consumers likely don’t watch a lot of TV.
 Using Social Networking Services (SNS)(i.e. facebook, twitter, instagram) to advertise our business because we target young customers, and SNS is free.
 Build relationships with local sporting goods businesses, so they can also recommend or let their customers know about our services.
 
-### Rating System
+#### Rating System
 
 In app/on website ability to rate products to show quality.
 Its rating is made public so that customers can see rates and comments (like the situation we buy product online in Amazon) 
 Point of Purchase
 In app, on website to provide easily accessible, and in person at rental machines.
-Handle with many languages (spanish, chinese, franch, etc.) because we target people from all over the world - using technology to translate English into other languages?
+Handle with many languages (spanish, chinese, franch, etc.) because we target people from all over the world - using technology to translate English into other languages.
  
-### Deliver value
+#### Deliver value
 
 “Value delivery involves everything necessary to ensure every paying customer is a happy customer: order processing, inventor management, delivery fulfillment, troubleshooting, customer support, etc.” 
 Customers can see the stock of paddleboards, kayaks and canoes in app/on website
 Refer-a-friend program: Tell a friend about our business (recommend to try) and the person who introduces to the friend can get coupon or something
 
-### Customer Support
+#### Customer Support
 
  Contact Us system with email, text support, and 24/7 bot system to help with issues with technology
  
@@ -72,13 +68,12 @@ We maintain a short-term to long-term relationship with our customers.
 #### Usage of said relationship
 
 Short-term: This is for those who are using our services as a temporary means to partake in the activities on the water. This is temporary because they either plan on rarely partaking in the activities, or they eventually plan to buy their own equipment in the future.
+
 Long-term: This is for our customers who do not want to and/or cannot afford, house, or take care of their own equipment. We offer an easy alternative to those who want to partake in the water activities, but who may not be able to maintain ownership of their own equipment.
 
 #### Direct Personal assistance
 
 There will be online customer support for anyone who is having troubles, but there will also be buildings in select areas that will be able to assist on-site. If there is not a building in that area and the issue cannot be resolved through customer support (or the patron wants to speak in person), then we will send a technician in the local area to assist.
-
----
 
 ## Assingment 3
 
@@ -90,11 +85,11 @@ Team Leader - Erina Funatsu
 
 Our business will develop applications for smartphone users and establish an Internet website so that customers can borrow equipment for water sport activities - surfboards, wakeboards, paddle boards, canoes, or kayaks. In both the app and website, customers can search what they want to rent by putting a few words in the search box, and they are able to quickly pick up equipment from the categories (i.e. surfboards, wakeboards, paddle boards, canoes, or kayaks). They can also check rates and comments before deciding to borrow products. In the smartphone app, there is a notification function telling customers valuable information such as discount, sale, invents, etc. Our business creates value by providing much cheaper water sports equipment for users who are not able to afford other products. These services contribute to solving customer problems because customers can compare the cost, condition, experience with the seller of equipment in the app or web. This means they can choose the products that meet their needs. All customers need to enroll their email before using services as it helps us maintain customer relationships too.
 
+### Key Resources
+
 #### Business partners
 
 Our business includes providing products to users, delivering them to users, and carrying out maintenance of products. We do not either produce the water sport equipment , deliver them, or maintain them; instead, we manage these as a series of business procedures. We cooperate with companies for manufacturing, delivering, and maintaining these products. If users try to go through these processes by themselves, it is very difficult and expensive for them. Our business acts as a mediator between each sector. Our connections build a bridge between producing the product, delivering it, and keeping up that maintenance of said product. We act as a middleman for each section, and this ensures that we can handle the leasing prices for customers. This business model not only helps users to get equipment as cheap as possible, but also have benefits for our business partners. Since we are developing and maintaining the app and website that collect customers’ comments or rates towards a product, we share those valuable information with business partners. As a result, business partners can also make a profit by providing products or services that are specifically tailored to the user’s needs. We are in a win-win situation.
-
-### Key Resources
 
 #### Assets
 
