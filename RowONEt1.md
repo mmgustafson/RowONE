@@ -2,6 +2,8 @@
 
 ![](IMG_78243.jpg)
 
+*RowONE* is a company based in the coasts of the United States, renting a water sport recreational equipment at a lower cost. Our business provides customers more opportunities to enjoy aquatic sports by being engaged in buying, housing, maintaining, and transporting goods on behalf of the customers.
+
 ## Assignment 1
 
 Team Leader - Joe Gomez
