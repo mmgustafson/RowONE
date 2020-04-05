@@ -31,7 +31,7 @@ Within the next 5 years, our business is expected to grow in terms of the amount
 
 Team Leader - Chase Pederson
 
-### Channels - Connecting Customer Segments
+### Channels
 
 #### Marketing 
 
