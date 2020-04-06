@@ -108,3 +108,5 @@ Providing a cheaper and more accessible way to rent water equipment is a major p
 #### *Technology*
 
 Our company will need a server to house our customer’s data and purchases. This also means that we need a network of computers at our facilities. These computers will have app and website development tools as well as tools to handle the customer’s data.
+
+![](https://github.com/mmgustafson/RowONE/blob/master/RowOne%20Business%20Model%20Canvas%20500.png)
