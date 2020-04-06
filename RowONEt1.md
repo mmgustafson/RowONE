@@ -92,10 +92,10 @@ In the smartphone app, there is a notification function telling customers valuab
 
 ### **Key Resources**
 
-* *Physical - goods, stores, computer, server, network
-* *Intellectual - customer database, logos, website, apps, partnership
-* *Human - engineers/technical experts, business partners
-* *Financial - cash, credit, stock 
+* *Physical* - goods, stores, computer, server, network
+* *Intellectual* - customer database, logos, website, apps, partnership
+* *Human* - engineers/technical experts, business partners
+* *Financial* - cash, credit, stock 
 
 #### *Business partners*
 
