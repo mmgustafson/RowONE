@@ -1,6 +1,6 @@
 
 
-### **T4: Channels**
+### **T2: Channels & Customer Relationships**
 
 Team Leader - Chase Pederson
 
