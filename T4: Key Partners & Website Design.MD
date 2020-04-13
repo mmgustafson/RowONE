@@ -28,3 +28,5 @@ We will also be partnering with service enablers. These entities will help get o
 
 Not to mention National, City, and State Parks. We will need a good relationship with them to get permission to work near the lakes, 
 rivers and oceans. We want to abide all the laws and regulations there are to operate. 
+
+Mock Website URL: https://mgustafson80.wixsite.com/rowone 
