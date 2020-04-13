@@ -1,6 +1,6 @@
 <h3>RowONE Business Model Canvas</h3>
 
-|<h4>Key Partners</h4>|<h4>Key Activities</h4>|<h4>Value Propositions</h4>|<h4>Customer Relationships</h4>|<h4>Customer Segments</h4>|
+|<h4><a href="https://github.com/mmgustafson/RowONE/blob/master/T2:%20Channels%20%26%20Customer%20Relationships.MD">Key Partners</a></h4>|<h4>Key Activities</h4>|<h4>Value Propositions</h4>|<h4>Customer Relationships</h4>|<h4>Customer Segments</h4>|
 |---------------------|-----------------------|--------------------------|-------------------------------|--------------------------|
 |<li>Watersport equipment manufacturers</li>|<li>Develop applications for smart phone users</li>| <li>Increase accessibility to aquatic recreational equipment</li> | <li> A short-term relationship: Using our services temporarily</li> | <li>Anyone from the age 18 and older</li>
 |<li> Delivery Service Providers</li>| <li>Establish a website</li>| <li>Eliminate the time and effort to own, house, maintain and transport equipment</li>| <li>A long-term relationship: maintian ownership of customers' equipment</li>| <li>Specialize in outdoor fitness and aquatic sports                  
