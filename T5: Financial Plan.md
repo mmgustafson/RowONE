@@ -24,6 +24,8 @@ We expect to provide our investors with 20% of our profits.
 Based on our growth and how much equipment is still in good condition, 
 the 30% for buying equipment may change along with the 15% for repairs.
 
+Our main business is to provide customers with equipment that we purchase from a business partner, so buying equipment would be the second highest amount of cost. Also, the payment for employees, especially  for technology experts, is important to do our business; therefore, it accounts for 40%.
+
 ### Revenue Streams ###
 
 Our profits will primarily be acquired through online and on-site rentals. 
