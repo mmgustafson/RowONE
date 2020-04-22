@@ -38,11 +38,11 @@ We maintain a short-term to long-term relationship with our customers.
 
 #### *Usage of said relationship*
 
-Short-term: This is for those who are using our services as a temporary means to partake in the activities on the water. This is temporary because they either plan on rarely partaking in the activities, or they eventually plan to buy their own equipment in the future.
+Short-term: The short-term customer relationship is just renting out water sports devices. They pick up a device and use it for the day and return it at the end of their use. It is simple just as a movie store rents out videos and movies/games.
 
-Long-term: This is for our customers who do not want to and/or cannot afford, house, or take care of their own equipment. We offer an easy alternative to those who want to partake in the water activities, but who may not be able to maintain ownership of their own equipment.
+Long-term: Our relationship to our customers long term is that they will get connected with each other. We could organize sponsored events to bring people together and have them use our products and become attatched to them and the community. With that we will be able to keep customers in our loop with new events for water sports.
 
 #### *Direct Personal assistance*
 
-There will be online customer support for anyone who is having troubles, but there will also be buildings in select areas that will be able to assist on-site. If there is not a building in that area and the issue cannot be resolved through customer support (or the patron wants to speak in person), then we will send a technician in the local area to assist.
+There will be online customer support for anyone who is having troubles, but there will also be buildings in select areas that will be able to assist on-site. Our website will have a trouble shooting page that would assist customers further by showing them issues that others may have had and got solved
 
