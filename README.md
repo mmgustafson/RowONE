@@ -1,17 +1,13 @@
 # RowONE
-Recreational Equipment Rentals
-# Name of Business
-This is a Markdown template for developing a business model using the Business Model Canvas.
-Add logo of the business here. Remove this description.
 
-## Summary of Business
-Add a description that is about the length of an evelvator pitch for the business.
+![](IMG_78243.jpg)
+
+*RowONE* is a company based in the coasts of the United States, renting a water sport recreational equipment at a lower cost. Our business provides customers more opportunities to enjoy aquatic sports by being engaged in buying, housing, maintaining, and transporting goods on behalf of the customers.
 
 ## Website of Business
-Add here a link to your website design.
+https://mgustafson80.wixsite.com/rowone
 
 ## Business Model Canvas
-Add a very brief summary of each section in this table and provide details in the linked documents. Remove this description.
 
 <table>
   <tr>
