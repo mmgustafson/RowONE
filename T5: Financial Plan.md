@@ -9,7 +9,7 @@ business would need to be done by acquiring a loan and through investors. This l
 our success and give us more room to get our name out there. Our expected costs will depend on the
 amount loaned to us; however, here is how the cost percentages should look:
 
-SBA Loan: $1 million
+SBA Loan: $1 million 
 Investor: $500,000
 
 Start up costs $375,000
