@@ -33,21 +33,21 @@ Employee Pay:			50%	($187,500)
 Warehouse w/ equipment:		15%	($56,250)
 Investor:			20%	($75,000)
 
-	We expect to provide our investors with 20% of our profits. Based on our growth and how much
+We expect to provide our investors with 20% of our profits. Based on our growth and how much
 equipment is still in good condition, the 30% for buying equipment may change along with the 15% for repairs.
 
-	(Our main business is to provide customers with equipment that we purchase from a business partner,
+(Our main business is to provide customers with equipment that we purchase from a business partner,
 so buying equipment would be the second highest amount of cost. Also, the payment for employees, especially 
 for technology experts, is important to do our business; therefore, it accounts for 50%.)
 
 ### Revenue Streams ###
 
-	Our profits will primarily be acquired through online and on-site rentals. Our costs will increase
+Our profits will primarily be acquired through online and on-site rentals. Our costs will increase
 by the amount of time people spend using our equipment. Advertising, rental stands on site, and word of mouth
 is what will get our name out there. Revenue will also come from customers if they happen to break the equipment.
 
 ### Final Costs ###
 
-	While we cannot give a conclusive answer to how much money we are expected to earn (primarily based
+While we cannot give a conclusive answer to how much money we are expected to earn (primarily based
 on the amount loaned and from investors), we can confidently say that we are projected to be very successful
 within the three year time period.
