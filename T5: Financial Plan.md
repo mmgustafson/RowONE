@@ -7,32 +7,32 @@ Team Leader: Adam Strasser
 RowONE is looking to start smaller and build a bigger presence as we grow our numbers. Starting our
 business would need to be done by acquiring a loan and through investors. This loan will jump start
 our success and give us more room to get our name out there. Our expected costs will depend on the
-amount loaned to us; however, here is how the cost percentages should look:
+amount loaned to us; however, here is how the cost percentages should look:  
+  
+SBA Loan: $1 million  
+Investor: $500,000  
+  
+Start up costs $375,000  
+  
+Running the Website:		 2%	($7,500)  
+Advertising:			 3%	($11,250)  
+Maintenance and Repairs: 	 0%	($0)  
+Buying Equipment:		30%	($112,500)  
+Employee Pay:			50%	($187,500)  
+Warehouse w/ equipment:		15%	($56,250)  
+Investor:	 		 0%  
+  
+After start up costs, Year 1 - 3   
+Each year the budget is $375,000  
 
-SBA Loan: $1 million 
-Investor: $500,000
-
-Start up costs $375,000
-
-Running the Website:		 2%	($7,500)
-Advertising:			 3%	($11,250)
-Maintenance and Repairs: 	 0%	($0)
-Buying Equipment:		30%	($112,500)
-Employee Pay:			50%	($187,500)
-Warehouse w/ equipment:		15%	($56,250)
-Investor:	 		 0%
-
-After start up costs, Year 1 - 3 
-Each year the budget is $375,000
-
-Running the Website:		 2%	($7,500)
-Advertising:			 3%	($11,250)
-Maintenance and Repairs:	 5%	($18,750)
-Buying Equipment:		 5%	($18,750)
-Employee Pay:			50%	($187,500)
-Warehouse w/ equipment:		15%	($56,250)
-Investor:			20%	($75,000)
-
+Running the Website:		 2%	($7,500)  
+Advertising:			 3%	($11,250)  
+Maintenance and Repairs:	 5%	($18,750)  
+Buying Equipment:		 5%	($18,750)  
+Employee Pay:			50%	($187,500)  
+Warehouse w/ equipment:		15%	($56,250)  
+Investor:			20%	($75,000)  
+  
 We expect to provide our investors with 20% of our profits. Based on our growth and how much
 equipment is still in good condition, the 30% for buying equipment may change along with the 15% for repairs.
 
