@@ -21,4 +21,12 @@ Handle with many languages (spanish, chinese, franch, etc.) because we target pe
 #### *Deliver value*
 
 Customers can see the stock of paddleboards, kayaks and canoes in app/on website
-Refer-a-friend program: Tell a friend about our business (recommend to try) and the person who introduces to the friend can get coupon, or special bundle rentals, for example rent up to four kayaks at full price and get an extra rental for free for duration of original rental. Rewards program, for loyal customers who rent from us more frequently than others, allows people to earn rewards such as souvenirs (ie stickers, koozies, t-shirts etc), or discounts on future rentals.
+Refer-a-friend program: Tell a friend about our business (recommend to try) and the person who introduces to the friend can get coupon,
+or special bundle rentals, for example rent up to four kayaks at full price and get an extra rental for free for duration of original
+rental. Rewards program, for loyal customers who rent from us more frequently than others, allows people to earn rewards such as
+souvenirs (ie stickers, koozies, t-shirts etc), or discounts on future rentals.
+
+#### *Finances* ####
+We will be aquiring a business loan, shooting for 1 million, as well as finding an investor interested in doing business with us for 
+a whopping 20% of our profits after the first 3 years of operations. The first 3 years will be paid within our budget, which we will dedicate 20% of our budget to paying them for their investments and endorsements. 
+
