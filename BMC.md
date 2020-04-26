@@ -8,19 +8,19 @@
         <p>Financial support<br>
       <h4>  Sporting Good Stores  </h4>
         <p>REI<br>
-        <p>Cabela's</br>
-        <p>Dick's Sporting Goods</br>
-        <p>Bass Pro Shops</br>
-        <p>SCHEELS</br>
+        Cabela's</br>
+        Dick's Sporting Goods</br>
+        Bass Pro Shops</br>
+        SCHEELS</br>
           <p>They will be the main suppliers of our inventory</p>
       <h4>  Service Enablers  </h4>
-        <p>Google</br>
-        <p>Yelp</br>
-        <p>Foursquare</br>
-        <p>Facebook</br>
-        <p>Instagram</br>
-        <p>Twitter</br>
-        <p>They will help get our name out there<br>
+        Google</br>
+        Yelp</br>
+        Foursquare</br>
+        Facebook</br>
+        Instagram</br>
+        Twitter</br>
+          <p>They will help get our name out there</p>
     </td>
     <td>
       <b><a href="Key_Activities.md">Key Activities</a></b>
@@ -35,22 +35,22 @@
     <td rowspan="2" colspan="2">
       <b><a href="Value_Propositions.md">Value Propositions</a></b>
       <h4>First of It's Kind!</h4>
-      <p>Water sports rental equipment from a kiosk.<br>
-      <p>Convenient.<br>
-      <p>Hassle Free.<br>
-      <p>Low cost. Affordable.<br></p>
+      Water sports rental equipment from a kiosk.<br>
+      Convenient.<br>
+      Hassle Free.<br>
+      Low cost. Affordable.<br></p>
       <br><br><br><br><br>
     </td>
     <td>
       <b><a href="Customer_Relationships.md">Customer Relationships</a></b>
       <h4>Short term</h4>
        <p>One-time rentals</br>
-       <p>Temporary means to partake in activities in the water</br>
+       Temporary means to partake in activities in the water</br>
       <h4>Long term</h4>
-        <p>Keep in touch<br> 
-        <p>Photo Sharing<br>
-        <p>Participating in community sport events<br>
-        <p>Sponsorship<br>
+        Keep in touch<br> 
+        Photo Sharing<br>
+        Participating in community sport events<br>
+        Sponsorship<br>
       <h4>Contact Us System</h4>
         <p> 24/7 Support <br>
           <li>Call</li>
@@ -61,10 +61,10 @@
       <b><a href="Customer_Segments.md">Customer Segments</a></b>
       <h4>For Anyone</h4>
       <p>Small/Niche community<br>
-      <p>Ages 18 and older<br>
-      <p>Active<br>
-      <p>Outdoorsy<br>
-      <p>Customers looking for water sport equipment<br>
+      Ages 18 and older<br>
+      Active<br>
+      Outdoorsy<br>
+      Customers looking for water sport equipment<br>
     </td>
   </tr>
   <tr>
@@ -92,10 +92,12 @@
   <tr>
     <td colspan="3">
       <b><a href="Financial_Plan.md">Cost Structure</a></b>
-      <p>What are the most important costs to our business?<br>
-      Which Key Resources are most expensive?<br>
-      Which Key Activities are most expensive?<br>
-      How does it coes to establish and run the business?</p>
+      <h4>Start up ($375,000)</h4>
+      <p>Employees (Most expensive)<br>
+      Watersport equipment (Second most expensive)<br>
+      Warehouse rental<br>
+      
+     </p>
     </td>
     <td colspan="3">
       <b><a href="Financial_Plan.md">Revenue Streams</a></b>
