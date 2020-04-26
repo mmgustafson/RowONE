@@ -74,17 +74,14 @@
   <tr>
     <td>
       <b><a href="Key_Resources.md">Key Resources</a></b>
-      <p>What Key Resources do our Value Propositions require?<br>
-      Our Distribution Channels?<br>
-        Customer Relationships?<br>
-        Revenue Streams?</p>
-    </td>
-    <td>
-      <b><a href="Channels.md">Channels</a></b>
-      <p>Through which Channels do our Customer Segments want to be reached?<br>
-      How are our Channels integrated?
-      How are we integrated with customer routines?</p>
-    </td>
+      <h4>Physical Goods</h4>
+        <p>Water Sport Equipment, Kiosks, Warehouse, Computers, Server<br>
+      <h4>Intellectual</h4>
+        <p>Customer database, Customer info/data<br>
+      <h4>Human<h4>
+       <p>Employees, Business Partners, 
+      <h4>Financial</h4>
+       <p>Cash, Credit, Stock<br>
   </tr>
   <tr>
     <td colspan="3">
