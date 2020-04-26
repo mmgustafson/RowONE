@@ -41,8 +41,8 @@ https://mgustafson80.wixsite.com/rowone
     </td>
     <td>
       <b><a href="Key_Activities.md">Key Activities</a></b>
-      <p>What Key Activities do our Value Propositions require?<br>
-      Our Distribution Channels?<br>
+      <h4>Equipment Rentals</h4>
+      <p>Providing cheaper, more convenient and more accessible way to rent water sports equipment<br>
       Customer Relationships?<br>
       Revenue Streams?</p>
     </td>
