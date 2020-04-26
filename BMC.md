@@ -93,17 +93,31 @@
     <td colspan="3">
       <b><a href="Financial_Plan.md">Cost Structure</a></b>
       <h4>Start up ($375k)</h4>
-      <p>Employees (Most expensive)<br>
-      Watersport equipment (Second most expensive)<br>
-      Warehouse rental<br>
+        <p>Employee Pay: 50% ($187,500)</br>
+        Buying Equipment: 30% ($112,500)</br>
+        Warehouse w/ equipment: 15% ($56,250)</br>
+        Advertising: 3% ($11,250)</br>
+        Running the Website: 2% ($7,500)</br>
+        Maintenance and Repairs: 0% ($0)</br>
+        Investors: 0%</br>
       <h4>Years 1-3 ($375k/Yr)</h4>
-      
+      <p>Employee Pay: 50% ($187,500)</br>
+        Investor: 20% ($75,000)</br>
+        Warehouse w/ equipment: 15% ($56,250)</br>
+        Maintenance and Repairs: 5% ($18,750)</br>
+        Buying Equipment: 5% ($18,750)</br>
+        Advertising: 3% ($11,250)</br>
+        Running the Website: 2% ($7,500)</br>      
 </td>
     <td colspan="3">
       <b><a href="Financial_Plan.md">Revenue Streams</a></b>
-      <p>For what value are customers willing to pay? <br>
-      How would they prefer to pay? <br>
-      What is the revenue structure?</p>
+      <p>Our profits will primarily be aquired through online and on-site rentals. Our costs will increase by the amount of time people spend using our equipment<br>
+      Advertising, rental stands on site, and word of mouth is what will get our name out there. Revenue will also come from customers if they happen to break the equipment.<br>
+  <h4>Payments</h4> <p>We accept:<br>
+        Credit and Debit cards<br>
+        eChecks through ACH Processing<br>
+        Paypal<br>
+        Square<br>
     </td>
   </tr>
 </table>
