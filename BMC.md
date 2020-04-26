@@ -1,0 +1,100 @@
+## Business Model Canvas
+
+<table>
+  <tr>
+    <td rowspan="2">
+      <b><a href="Key_Partners.md">Key Partners</a></b>
+      <h4>  Bank/Investor  </h4>
+        <p>Financial support<br>
+      <h4>  Sporting Good Stores  </h4>
+        <p>REI<br>
+        <p>Cabela's</br>
+        <p>Dick's Sporting Goods</br>
+        <p>Bass Pro Shops</br>
+        <p>SCHEELS</br>
+          <p>They will be the main suppliers of our inventory</p>
+      <h4>  Service Enablers  </h4>
+        <p>Google</br>
+        <p>Yelp</br>
+        <p>Foursquare</br>
+        <p>Facebook</br>
+        <p>Instagram</br>
+        <p>Twitter</br>
+        <p>They will help get our name out there<br>
+    </td>
+    <td>
+      <b><a href="Key_Activities.md">Key Activities</a></b>
+      <h4>Equipment Rentals</h4>
+      <p>Providing cheaper, more convenient and more accessible way to rent water sports equipment.<br>
+      <h4>Website and Apps</h4>
+      <p>Available for quick and easy booking/scheduling rentals, and searching where our locations are, and what products we have available.<br> 
+      <p>Allows easy contact for any questions or concerns.<br>
+      <h4>Delivery and Pickup</h4>
+      <p>Available to those who are going to remote locations where our kiosks are not located.<br>
+    </td>
+    <td rowspan="2" colspan="2">
+      <b><a href="Value_Propositions.md">Value Propositions</a></b>
+      <h4>First of It's Kind!</h4>
+      <p>Water sports rental equipment from a kiosk.<br>
+      <p>Convenient.<br>
+      <p>Hassle Free.<br>
+      <p>Low cost. Affordable.<br>
+      What bundles of products and services are we offering to each Customer Segment?<br>
+      are different and <br>
+      worth paying <br>
+      attention</p>
+      <br><br><br><br><br>
+    </td>
+    <td>
+      <b><a href="Customer_Relationships.md">Customer Relationships</a></b>
+      <h4>Short term</h4>
+       <p>One-time rentals</br>
+       <p>Temporary means to partake in activities in the water</br>
+      <h4>Long term</h4>
+        <p>Keep in touch<br> 
+        <p>Photo Sharing<br>
+        <p>Participating in community sport events<br>
+        <p>Sponsorship<br>
+      <h4>Contact Us System</h4>
+        <p> 24/7 Support <br>
+          <li>Call</li>
+          <li>Text</li>
+          <li>Email</li>
+    </td>
+    <td rowspan="2">
+      <b><a href="Customer_Segments.md">Customer Segments</a></b>
+      <p>For whom are we creating value?<br>
+      Who are our most important customers?</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b><a href="Key_Resources.md">Key Resources</a></b>
+      <p>What Key Resources do our Value Propositions require?<br>
+      Our Distribution Channels?<br>
+        Customer Relationships?<br>
+        Revenue Streams?</p>
+    </td>
+    <td>
+      <b><a href="Channels.md">Channels</a></b>
+      <p>Through which Channels do our Customer Segments want to be reached?<br>
+      How are our Channels integrated?
+      How are we integrated with customer routines?</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3">
+      <b><a href="Financial_Plan.md">Cost Structure</a></b>
+      <p>What are the most important costs to our business?<br>
+      Which Key Resources are most expensive?<br>
+      Which Key Activities are most expensive?<br>
+      How does it coes to establish and run the business?</p>
+    </td>
+    <td colspan="3">
+      <b><a href="Financial_Plan.md">Revenue Streams</a></b>
+      <p>For what value are customers willing to pay? <br>
+      How would they prefer to pay? <br>
+      What is the revenue structure?</p>
+    </td>
+  </tr>
+</table>
