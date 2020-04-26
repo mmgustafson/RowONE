@@ -63,8 +63,12 @@
     </td>
     <td rowspan="2">
       <b><a href="Customer_Segments.md">Customer Segments</a></b>
-      <p>For whom are we creating value?<br>
-      Who are our most important customers?</p>
+      <h4>For Anyone</h4>
+      <p>Small/Niche community<br>
+      <p>Ages 18 and older<br>
+      <p>Active<br>
+      <p>Outdoorsy<br>
+      <p>Customers looking for water sport equipment<br>
     </td>
   </tr>
   <tr>
