@@ -34,14 +34,14 @@ Investor: $500,000
   
 Start up costs $375,000  
   
-Running the Website:             2%     ($7,500)  
-Advertising:                     3%     ($11,250)  
-Maintenance and Repairs:         0%     ($0)  
-Buying Equipment:               30%     ($112,500)  
-Employee Pay:                   50%     ($187,500)  
-Warehouse w/ equipment:         15%     ($56,250)  
-Investors:                       0%  
-  
+Running the Website:     2% ($7,500)  
+Advertising:             3% ($11,250)  
+Maintenance and Repairs: 0% ($0)  
+Buying Equipment:        30% ($112,500)  
+Employee Pay:            50% ($187,500)  
+Warehouse w/ equipment:  15% ($56,250)  
+Investors:               0% 
+
 After start up costs, Year 1 - 3   
 Each year the budget is $375,000  
 
