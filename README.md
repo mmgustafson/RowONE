@@ -21,9 +21,23 @@ https://mgustafson80.wixsite.com/rowone
   <tr>
     <td rowspan="2">
       <b><a href="Key_Partners.md">Key Partners</a></b>
-      <p>Who are our Key Partners?<br>
-      Who are our key suppliers?<br>
-      Which Key Activities do partners perform?</p>
+      <h4>Bank/Investor</h4>
+        <li>Financial support</li>
+      <h4>Sporting Good Stores</h4>
+        <li>REI</li>
+        <li>Cabela's</li>
+        <li>Dick's Sporting Goods</li>
+        <li>Bass Pro Shops</li>
+        <li>SCHEELS</li>
+          <p>They will be the main suppliers of our inventory</p>
+      <h4>Service Enablers</h4>
+        <li>Google</li>
+        <li>Yelp</li>
+        <li>Foursquare</li>
+        <li>Facebook</li>
+        <li>Instagram</li>
+        <li>Twitter</li>
+          <p>They will help get our name out there</p>
     </td>
     <td>
       <b><a href="Key_Activities.md">Key Activities</a></b>
