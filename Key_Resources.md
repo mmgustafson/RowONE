@@ -7,11 +7,13 @@
 * *Physical* - goods, stores, computer, server, network
 * *Intellectual* - customer database, logos, website, apps, partnership
 * *Human* - engineers/technical experts, business partners
-* *Financial* - cash, credit, stock 
+* *Financial* - Business loan, Investments from investors, Cash, Credit, Stock 
 
 #### *Assets*
 
-Providing a cheaper and more accessible way to rent water equipment is a major part of our business, we will be working with many businesses directly to cut down the costs. Our business partners play a major role in our company by providing their products or delivering the products from our facilities to the consumer’s location. The products will be acquired through business deals, and we will be renting them to consumers. We will need people to operate and fix any technical difficulties with our app and website since we are mainly an online company. Although we are primarily online-based, we also have on-site locations in popular spots. This is to more easily maintain and and out equipment rather than delivering it.
+We own all of our eqiupment. Though we store it in warehouse in which we rent for the time being. 
+We will be working with many businesses directly to cut down the costs. Our business partners play a major role in our company by 
+providing their products, and helping with advertisments, or recommendations to customers.
 
 #### *Technology*
 
