@@ -92,13 +92,13 @@
   <tr>
     <td colspan="3">
       <b><a href="Financial_Plan.md">Cost Structure</a></b>
-      <h4>Start up ($375,000)</h4>
+      <h4>Start up ($375k)</h4>
       <p>Employees (Most expensive)<br>
       Watersport equipment (Second most expensive)<br>
       Warehouse rental<br>
+      <h4>Years 1-3 ($375k/Yr)</h4>
       
-     </p>
-    </td>
+</td>
     <td colspan="3">
       <b><a href="Financial_Plan.md">Revenue Streams</a></b>
       <p>For what value are customers willing to pay? <br>
