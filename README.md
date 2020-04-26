@@ -21,16 +21,16 @@ https://mgustafson80.wixsite.com/rowone
   <tr>
     <td rowspan="2">
       <b><a href="Key_Partners.md">Key Partners</a></b>
-      <h4>Bank/Investor</h4>
+      <h4>  Bank/Investor  </h4>
         <li>Financial support</li>
-      <h4>Sporting Good Stores</h4>
+      <h4>  Sporting Good Stores  </h4>
         <li>REI</li>
         <li>Cabela's</li>
         <li>Dick's Sporting Goods</li>
         <li>Bass Pro Shops</li>
         <li>SCHEELS</li>
           <p>They will be the main suppliers of our inventory</p>
-      <h4>Service Enablers</h4>
+      <h4>  Service Enablers  </h4>
         <li>Google</li>
         <li>Yelp</li>
         <li>Foursquare</li>
