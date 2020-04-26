@@ -38,11 +38,7 @@
       <p>Water sports rental equipment from a kiosk.<br>
       <p>Convenient.<br>
       <p>Hassle Free.<br>
-      <p>Low cost. Affordable.<br>
-      What bundles of products and services are we offering to each Customer Segment?<br>
-      are different and <br>
-      worth paying <br>
-      attention</p>
+      <p>Low cost. Affordable.<br></p>
       <br><br><br><br><br>
     </td>
     <td>
@@ -82,6 +78,16 @@
        <p>Employees, Business Partners, 
       <h4>Financial</h4>
        <p>Cash, Credit, Stock<br>
+   </td>
+    <td>
+      <b><a href="Channels.md">Channels</a></b>
+      <h4>Online Advertising</h4>
+      <p>Through social media, and other websites<br>
+      <h4>Local Sporting Good Stores</h4>
+      <p> Developing friendly business relationships for possible recommendations</p>
+      <h4>Sponsorship</h4>
+      <p>High profile athletes, celebrities, and influencers<br>
+    </td>
   </tr>
   <tr>
     <td colspan="3">
