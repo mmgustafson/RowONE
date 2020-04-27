@@ -92,7 +92,7 @@ https://mgustafson80.wixsite.com/rowone
       <h4>Intellectual</h4>
         <p>Customer database, Customer info/data<br>
       <h4>Human<h4>
-       <p>Employees, Business Partners, 
+        <p>Employees, Business Partners 
       <h4>Financial</h4>
        <p>Cash, Credit, Stock<br>
    </td>
