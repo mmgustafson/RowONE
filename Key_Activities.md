@@ -6,7 +6,7 @@
 
 #### *Equipment Rentals* ####
 
-We are providing cheaper, more convenient and more accesible way to rent water sports equipment. 
+We are providing cheaper, more convenient and more accesible ways to rent water sports equipment. 
 
 #### *Platform for customers to use (App and website)*
 
@@ -17,7 +17,7 @@ Our business will develop applications for smartphone users and establish websit
 We also have a wide variety of different brands per sporting equipment, so preference is definitely encouraged for our more selective customers.
 
 #### *Keeping in touch* ####
-In the smartphone app, there is a notification function telling customers valuable information such as discount, sale, invents, etc.
+In the smartphone app, there is a notification function updating customers valuable information such as discount, sale, invents, etc.
 Our business creates value by providing much cheaper water sports equipment for users who are not able to afford other products. 
 These services contribute to solving customer problems because customers can compare the cost, condition, experience with the seller of
 equipment in the app or web. 
@@ -28,7 +28,7 @@ sports industry, we also provide online information and physical pamphlets that 
 care of our equipment so it can be used to the max potential and returned in the condition it was rented.
 
 #### *Delivery and Pickup Service* ####
-Available to those who are going to remote location where our kiosks are not located. 
+Available to those who are going to remote locations where our kiosks are not located. 
 
 #### *Quality Customer Service* ####
 We are providing the highest quality of customer service. We are available 24/7 for any questions and concerns. We make sure our
